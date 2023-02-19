@@ -1,3 +1,5 @@
+## Auto Video
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 This app plays a video on page load with infinite loop and is muted by default. Controls are hidden.
