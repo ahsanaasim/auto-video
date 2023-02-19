@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <video width="600" height="400" autoPlay loop muted playsInline style={{margin: '0 auto'}}>
+          <video width="400" autoPlay loop muted playsInline style={{margin: '0 auto', width: '100%', height: 'auto'}}>
             <source src="sample.mp4" type="video/mp4" />
           </video>
         </div>
